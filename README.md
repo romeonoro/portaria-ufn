@@ -11,6 +11,7 @@ Este sistema permite a **gestão de usuários, itens e reservas** em ambientes c
 > 🙋🏻‍♂️ Romeo Noro Guterres <br>
 > 🙋🏻‍♂️ Anthony Guedes <br>
 
+<img src="https://github.com/user-attachments/assets/1ee3a0b9-183e-444d-95ce-91820747fa83" width="300">
 ---
 
 ## 🧭 Fluxo Principal
